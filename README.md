@@ -2,9 +2,10 @@
 
 > AI Skill tra cứu thuế TNCN, SOP kê khai/quyết toán, hướng dẫn theo nhóm đối tượng.
 
-[![Version](https://img.shields.io/badge/version-1.7.0-blue)]()
+[![Version](https://img.shields.io/badge/version-1.8.0-blue)]()
 [![License](https://img.shields.io/badge/license-MIT-green)]()
 [![Score](https://img.shields.io/badge/audit%20score-9.2%2F10-brightgreen)]()
+[![Updated](https://img.shields.io/badge/updated-05%2F05%2F2026-orange)]()
 
 ## Tổng Quan
 
@@ -49,7 +50,7 @@ Copy nội dung `SKILL.md` vào system prompt, upload folder `references/` vào 
 |--------|---------|--------|
 | Giảm trừ bản thân | 15,5 tr/tháng | NQ 110/2025/UBTVQH15 |
 | Giảm trừ NPT | 6,2 tr/tháng | NQ 110/2025/UBTVQH15 |
-| Ngưỡng miễn thuế HKD | **500 tr/năm** | NQ 198/2025/QH15 |
+| Ngưỡng miễn thuế HKD | **1 tỷ/năm** (cũ: 500tr) | NĐ 141/2026/NĐ-CP |
 | Biểu thuế lũy tiến | 5 bậc (5% - 35%) | Luật 109/2025/QH15 |
 | Thuế khoán | **Bãi bỏ** từ 01/01/2026 | NQ 198/2025/QH15 |
 
@@ -59,6 +60,7 @@ Copy nội dung `SKILL.md` vào system prompt, upload folder `references/` vào 
 thue-tncn-vietnam/
 ├── SKILL.md                          ← Master file (AI đọc đầu tiên)
 ├── README.md                         ← File này
+├── pending-review/                   ← Văn bản mới chờ duyệt (Semi-Auto Update)
 └── references/
     ├── tong-quan-thue.md             ← Biểu thuế, giảm trừ, ngưỡng
     ├── vi-du-tinh-thue.md            ← 7 ví dụ tính thuế
@@ -67,7 +69,7 @@ thue-tncn-vietnam/
     ├── nguoi-nuoc-ngoai-guide.md     ← Expat, cư trú, DTA
     ├── thue-khoan-guide.md           ← Thuế khoán bãi bỏ 2026
     ├── deadline-tracker.md           ← Lịch nộp thuế 2026
-    ├── faq.md                        ← 12 câu hỏi thường gặp
+    ├── faq.md                        ← 13 câu hỏi thường gặp
     ├── system-flow.md                ← Flow diagrams (Mermaid)
     ├── changelog.md                  ← Lịch sử cập nhật + expiry
     └── sources.md                    ← Nguồn tham khảo
@@ -78,7 +80,7 @@ thue-tncn-vietnam/
 Skill đã qua **4 vòng đánh giá** theo quy trình 6 bước:
 
 ```
-v1.4.0 (7.4) → v1.5.0 (7.9) → v1.6.0 (8.7) → v1.7.0 (9.2/10)
+v1.4.0 (7.4) → v1.5.0 (7.9) → v1.6.0 (8.7) → v1.7.0 (9.2) → v1.8.0 (Semi-Auto Update)
 ```
 
 ## Lưu Ý Quan Trọng
@@ -95,4 +97,4 @@ Kiểm tra lại tại:
 
 ---
 
-*Cập nhật: 07/04/2026 | Luật 109/2025/QH15 | NQ 198/2025/QH15*
+*Cập nhật: 05/05/2026 | Luật 109/2025/QH15 | NĐ 141/2026/NĐ-CP | NĐ 68/2026/NĐ-CP*

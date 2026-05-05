@@ -6,6 +6,21 @@
 
 ---
 
+### 05/05/2026 - SKILL UPDATE - v1.9.0 (BHXH Rút 1 Lần + Trợ Cấp Thất Nghiệp)
+- **THÊM:** `bhxh-rut-mot-lan-guide.md` - BHXH rút 1 lần theo Luật BHXH 2024
+  - Điều kiện 2 nhóm (trước/sau 01/07/2025)
+  - Công thức: 1,5 x MBQTL (trước 2014) + 2,0 x MBQTL (từ 2014)
+  - 4 case study (10 năm, 15 năm, 12 năm, 18 năm)
+  - Bảng ước tính nhanh + so sánh rút vs bảo lưu
+- **THÊM:** `bhtn-tro-cap-guide.md` - Trợ cấp thất nghiệp theo Luật Việc làm 2025
+  - Công thức: 60% x bình quân lương 6 tháng cuối
+  - Thời gian hưởng: 3-12 tháng (theo thời gian đóng)
+  - Trần: 5 x lương tối thiểu vùng
+  - 3 case study + bảng ước tính nhanh
+- **CẬP NHẬT:** SKILL.md - thêm trigger words, Quick Navigation, nhóm đối tượng mới
+- **CẬP NHẬT:** README.md - thêm tính năng, cấu trúc, nhóm đối tượng
+- **Scope mở rộng:** Skill giờ cover: Thuế TNCN + BHXH rút 1 lần + BHTN
+
 ### 05/05/2026 - SKILL UPDATE - v1.8.0 (Semi-Auto Update: NĐ 141 + NĐ 68 + TT 18)
 - **THAY ĐỔI LỚN:** Ngưỡng miễn thuế HKD/CNKD tăng từ 500 tr lên **1 tỷ/năm** (NĐ 141/2026/NĐ-CP, ngày 29/04/2026)
 - **THÊM:** NĐ 68/2026/NĐ-CP (05/03/2026) - base decree cho chính sách thuế HKD/CNKD mới

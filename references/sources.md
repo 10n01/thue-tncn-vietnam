@@ -64,6 +64,16 @@
 | CV 1296/CT-NVT | Hướng dẫn QT thuế TNCN năm 2025 | 04/03/2026 | Cục Thuế |
 | CV 2709/CT-CS | Thuế TNCN lợi tức từ TNHH 1TV | 28/04/2026 | Cục Thuế TP.HCM |
 
+## Luật BHXH & Việc Làm (🟢 HIGH)
+
+| Văn bản | Nội dung | Hiệu lực | Tra cứu |
+|---------|---------|---------|---------| 
+| Luật BHXH 2024 (41/2024/QH15) | BHXH rút 1 lần: 2 nhóm điều kiện | 01/07/2025 | baohiemxahoi.gov.vn |
+| Luật Việc làm 2025 | Trợ cấp thất nghiệp: công thức, thời gian | 01/01/2026 | thuvienphapluat.vn |
+| NĐ 115/2015/NĐ-CP | Hướng dẫn Luật BHXH (một số điều vẫn áp dụng) | Đang áp dụng | thuvienphapluat.vn |
+| NĐ 293/2025/NĐ-CP | Lương tối thiểu vùng 2026 (trần BHTN) | 01/01/2026 | thuvienphapluat.vn |
+
 > [!WARNING]
 > Quy định thuế thay đổi thường xuyên. Luôn kiểm tra lại với nguồn chính thống (gdt.gov.vn, chinhphu.vn) trước khi áp dụng.
 > NĐ hướng dẫn Luật 109/2025 (cho tiền lương, tiền công) vẫn đang dự thảo tại Bộ Tài chính (05/05/2026). Khi ban hành chính thức cần cập nhật lại skill.
+

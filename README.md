@@ -2,7 +2,7 @@
 
 > AI Skill tra cứu thuế TNCN, SOP kê khai/quyết toán, hướng dẫn theo nhóm đối tượng.
 
-[![Version](https://img.shields.io/badge/version-1.8.0-blue)]()
+[![Version](https://img.shields.io/badge/version-1.9.0-blue)]()
 [![License](https://img.shields.io/badge/license-MIT-green)]()
 [![Score](https://img.shields.io/badge/audit%20score-9.2%2F10-brightgreen)]()
 [![Updated](https://img.shields.io/badge/updated-05%2F05%2F2026-orange)]()
@@ -19,6 +19,8 @@ Skill **thue-tncn-vietnam** là bộ công cụ tra cứu thuế TNCN dạng AI,
 - 🌏 **Thuế người nước ngoài** - cư trú/không cư trú, DTA, flat 20%
 - 🔒 **3 Verification Gates + 8 Anti-Hallucination Rules** chống sai sót
 - ✅ **Calculation Checklist** 8 bước bắt buộc trước khi output phép tính
+- 💰 **BHXH rút 1 lần** - công thức tính, điều kiện 2 nhóm, 4 case study
+- 🛡️ **Trợ cấp thất nghiệp (BHTN)** - công thức 60% lương, thời gian hưởng, quy trình đăng ký
 
 ### Nhóm đối tượng
 
@@ -28,6 +30,8 @@ Skill **thue-tncn-vietnam** là bộ công cụ tra cứu thuế TNCN dạng AI,
 | Freelancer / KOL | `freelancer-guide.md` |
 | Người bán hàng online | `freelancer-guide.md` |
 | Người nước ngoài (Expat) | `nguoi-nuoc-ngoai-guide.md` |
+| Nghỉ việc / rút BHXH | `bhxh-rut-mot-lan-guide.md` |
+| Thất nghiệp / BHTN | `bhtn-tro-cap-guide.md` |
 
 ## Cài Đặt
 
@@ -70,6 +74,8 @@ thue-tncn-vietnam/
     ├── thue-khoan-guide.md           ← Thuế khoán bãi bỏ 2026
     ├── deadline-tracker.md           ← Lịch nộp thuế 2026
     ├── faq.md                        ← 13 câu hỏi thường gặp
+    ├── bhxh-rut-mot-lan-guide.md     ← BHXH rút 1 lần: điều kiện, công thức, case study
+    ├── bhtn-tro-cap-guide.md         ← Trợ cấp thất nghiệp: công thức, quy trình
     ├── system-flow.md                ← Flow diagrams (Mermaid)
     ├── changelog.md                  ← Lịch sử cập nhật + expiry
     └── sources.md                    ← Nguồn tham khảo
@@ -80,7 +86,7 @@ thue-tncn-vietnam/
 Skill đã qua **4 vòng đánh giá** theo quy trình 6 bước:
 
 ```
-v1.4.0 (7.4) → v1.5.0 (7.9) → v1.6.0 (8.7) → v1.7.0 (9.2) → v1.8.0 (Semi-Auto Update)
+v1.4.0 (7.4) → v1.5.0 (7.9) → v1.6.0 (8.7) → v1.7.0 (9.2) → v1.8.0 → v1.9.0 (+BHXH/BHTN)
 ```
 
 ## Lưu Ý Quan Trọng

@@ -1,7 +1,7 @@
 # Hướng Dẫn Thuế Khoán - Hộ Kinh Doanh & Cá Nhân Kinh Doanh
 
-> **Áp dụng:** Kỳ tính thuế 2026 | **Căn cứ:** Luật 109/2025/QH15, NQ 198/2025/QH15, NĐ 68/2026/NĐ-CP, NĐ 141/2026/NĐ-CP
-> **Cập nhật lần cuối:** 05/05/2026 | **Confidence:** HIGH (nguồn chính thống)
+> **Áp dụng:** Kỳ tính thuế 2026 | **Căn cứ:** Luật 109/2025/QH15, Luật 09/2026/QH16, NQ 198/2025/QH15, NĐ 68/2026/NĐ-CP, NĐ 141/2026/NĐ-CP
+> **Cập nhật lần cuối:** 01/07/2026 | **Confidence:** HIGH (nguồn chính thống)
 
 > [!CAUTION]
 > **THAY ĐỔI LỚN 2026:** Phương pháp thuế khoán chính thức bị **BÃI BỎ** từ 01/01/2026.
@@ -27,6 +27,17 @@ Thuế khoán (presumptive tax - thuế ấn định) là phương pháp tính t
 | 2 | 1 tỷ - 3 tỷ | % trực tiếp trên doanh thu | **Chọn:** Lợi nhuận × 15% HOẶC % DT | Theo quý |
 | 3 | > 3 tỷ - 50 tỷ | Phương pháp khấu trừ | Bắt buộc lợi nhuận × 17% | Theo quý + quyết toán năm |
 | 4 | > 50 tỷ | Phương pháp khấu trừ | Bắt buộc lợi nhuận × 20% | Theo quý + quyết toán năm |
+
+### 2.1. Quy định về Hóa đơn điện tử (HĐĐT)
+Theo NĐ 68/2026/NĐ-CP và NĐ 141/2026/NĐ-CP:
+*   **Doanh thu > 1 tỷ đồng/năm:** Bắt buộc sử dụng HĐĐT có mã của CQT hoặc HĐĐT khởi tạo từ máy tính tiền.
+*   **Doanh thu ≤ 1 tỷ đồng/năm:** Không bắt buộc, được đăng ký tự nguyện nếu có nhu cầu sử dụng.
+*   **Khi doanh thu lũy kế vượt 1 tỷ đồng:** Phải đăng ký sử dụng HĐĐT trong vòng **30 ngày** kể từ ngày doanh thu chính thức vượt ngưỡng 1 tỷ.
+
+### 2.2. Quy định về thanh toán không dùng tiền mặt
+Để được ghi nhận là chi phí hợp lý được trừ khi tính thuế TNCN (cho Cách 2 của Nhóm 2 và bắt buộc đối với Nhóm 3, Nhóm 4):
+*   Các khoản chi mua hàng hóa, dịch vụ có giá trị từ **5 triệu đồng trở lên** cho mỗi lần mua phải có chứng từ thanh toán không dùng tiền mặt (chuyển khoản ngân hàng, ví điện tử của hộ kinh doanh...).
+*   Các khoản chi không có chứng từ hợp lệ hoặc thanh toán bằng tiền mặt đối với hóa đơn từ 5 triệu đồng trở lên sẽ **bị loại** khỏi chi phí được trừ khi xác định thu nhập chịu thuế.
 
 > [!IMPORTANT]
 > **Ngưỡng miễn thuế:** Từ 500 tr (NĐ 68/2026) nâng lên **1 tỷ/năm** (NĐ 141/2026/NĐ-CP, ngày 29/04/2026).
@@ -60,7 +71,8 @@ Có 2 cách tính (áp dụng cho Thuế TNCN):
 
 **Cách 2: Theo lợi nhuận** (nếu xác định được chi phí đầu vào)
 - Thuế TNCN = 15% x (Doanh thu - Chi phí hợp lý)
-- Cần có chứng từ, hóa đơn đầu vào
+- Cần có sổ sách kế toán, hóa đơn chứng từ đầu vào hợp lệ.
+- LƯU Ý: Các hóa đơn chi phí từ **5 triệu đồng trở lên** phải thanh toán không dùng tiền mặt mới được tính là chi phí hợp lý.
 
 ### Nhóm 3-4: DT > 3 tỷ
 
@@ -68,7 +80,8 @@ Có 2 cách tính (áp dụng cho Thuế TNCN):
 - **Thuế TNCN:** Bắt buộc tính theo lợi nhuận thực tế (Doanh thu - Chi phí).
   - DT 3 tỷ - 50 tỷ: Thuế suất **17%** trên lợi nhuận.
   - DT > 50 tỷ: Thuế suất **20%** trên lợi nhuận.
-- Phải có sổ sách kế toán đầy đủ.
+- Phải có sổ sách kế toán đầy đủ và thực hiện HĐĐT bắt buộc.
+- Mọi khoản chi từ **5 triệu đồng trở lên** phải thanh toán không dùng tiền mặt mới được tính vào chi phí.
 
 ## 4. Quy Trình Kê Khai (Mẫu Biểu)
 
@@ -76,9 +89,11 @@ Có 2 cách tính (áp dụng cho Thuế TNCN):
 
 | Mẫu | Tên | Dùng khi |
 |-----|-----|----------|
-| **01/CNKD** | Tờ khai thuế CNKD | Kê khai thuế theo tháng/quý (DT > 1 tỷ) - TT 18/2026/TT-BTC |
+| **01/CNKD** | Tờ khai thuế CNKD | Kê khai thuế theo quý (DT > 1 tỷ) - TT 18/2026/TT-BTC |
 | **01-2/BK-HĐKD** | Phụ lục bảng kê hoạt động KD | Kèm theo 01/CNKD (nếu cần) |
 | **01/TKN-CNKD** | Thông báo doanh thu | Kê khai 1 lần/năm (DT ≤ 1 tỷ) |
+| **01/BK-STK** | Bảng kê tài khoản ngân hàng | BẮT BUỘC nộp thông báo tài khoản/ví điện tử dùng kinh doanh cho CQT |
+| **01/TB-ĐĐKD** | Thông báo địa điểm kinh doanh | Dùng khi HKD hoạt động tại nhiều địa điểm (phải dùng chung 1 MST) |
 
 ### Quy trình kê khai
 
@@ -159,6 +174,7 @@ Nếu bạn đang nộp thuế khoán (trước 2026), quy trình chuyển đổ
 
 > **Căn cứ pháp lý:**
 > - Luật 109/2025/QH15 (Luật Thuế TNCN sửa đổi)
+> - Luật 09/2026/QH16 (Luật sửa đổi các luật thuế, trao quyền điều chỉnh ngưỡng doanh thu cho Chính phủ)
 > - NQ 198/2025/QH15 (bãi bỏ thuế khoán)
 > - NQ 110/2025/UBTVQH15 (giảm trừ gia cảnh)
 > - NĐ 68/2026/NĐ-CP (chính sách thuế HKD/CNKD)

@@ -2,10 +2,10 @@
 
 > AI Skill tra cứu thuế TNCN, SOP kê khai/quyết toán, hướng dẫn theo nhóm đối tượng.
 
-[![Version](https://img.shields.io/badge/version-1.9.0-blue)]()
+[![Version](https://img.shields.io/badge/version-1.9.1-blue)]()
 [![License](https://img.shields.io/badge/license-MIT-green)]()
 [![Score](https://img.shields.io/badge/audit%20score-9.2%2F10-brightgreen)]()
-[![Updated](https://img.shields.io/badge/updated-05%2F05%2F2026-orange)]()
+[![Updated](https://img.shields.io/badge/updated-01%2F07%2F2026-orange)]()
 
 ## Tổng Quan
 
@@ -86,7 +86,7 @@ thue-tncn-vietnam/
 Skill đã qua **4 vòng đánh giá** theo quy trình 6 bước:
 
 ```
-v1.4.0 (7.4) → v1.5.0 (7.9) → v1.6.0 (8.7) → v1.7.0 (9.2) → v1.8.0 → v1.9.0 (+BHXH/BHTN)
+v1.4.0 (7.4) → v1.5.0 (7.9) → v1.6.0 (8.7) → v1.7.0 (9.2) → v1.8.0 → v1.9.0 (+BHXH/BHTN) → v1.9.1 (+Luật 09/2026/QH16 + HDDOT + NQ kỹ thuật)
 ```
 
 ## Lưu Ý Quan Trọng
@@ -103,4 +103,4 @@ Kiểm tra lại tại:
 
 ---
 
-*Cập nhật: 05/05/2026 | Luật 109/2025/QH15 | NĐ 141/2026/NĐ-CP | NĐ 68/2026/NĐ-CP*
+*Cập nhật: 01/07/2026 | Luật 109/2025/QH15 | Luật 09/2026/QH16 | NĐ 141/2026/NĐ-CP | NĐ 68/2026/NĐ-CP*

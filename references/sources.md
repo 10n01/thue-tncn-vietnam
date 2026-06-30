@@ -47,6 +47,7 @@
 | Văn bản | Nội dung | Hiệu lực | Tra cứu |
 |---------|---------|---------|---------|
 | Luật 109/2025/QH15 | Luật Thuế TNCN sửa đổi | 01/07/2026 (áp dụng sớm 01/01/2026) | thuvienphapluat.vn |
+| **Luật 09/2026/QH16** | **Luật sửa đổi các luật thuế** (cho phép CP linh hoạt điều chỉnh ngưỡng DT) | 24/04/2026 | thuvienphapluat.vn |
 | NQ 110/2025/UBTVQH15 | Mức giảm trừ gia cảnh mới | 01/01/2026 | chinhphu.vn |
 | NQ 198/2025/QH15 | Bãi bỏ thuế khoán, ngưỡng 500tr (ban đầu) | 01/01/2026 | chinhphu.vn |
 | NĐ 293/2025/NĐ-CP | Lương tối thiểu vùng mới (trần BHTN) | 01/01/2026 | thuvienphapluat.vn |

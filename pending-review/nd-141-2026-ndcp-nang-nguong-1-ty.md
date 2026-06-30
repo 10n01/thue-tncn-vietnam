@@ -5,7 +5,7 @@
 **Cơ quan:** Chính phủ
 **Loại:** Nghị định (sửa đổi, bổ sung NĐ 68/2026/NĐ-CP)
 **Nguồn:** chinhphu.vn, laodong.vn, sapo.vn, luatvietnam.vn
-**Status:** 🟡 PENDING REVIEW
+**Status:** 🟢 APPROVED
 **Extract Quality:** 🟢 92% (source:100 | metadata:100 | content:80 | relevance:90)
 **Crawled:** 05/05/2026
 

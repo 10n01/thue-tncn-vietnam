@@ -6,6 +6,14 @@
 
 ---
 
+### 01/07/2026 - SKILL UPDATE - v1.9.1 (Quy định chi tiết HKD + Luật 09/2026/QH16)
+- **THÊM CĂN CỨ:** Luật số 09/2026/QH16 (ban hành ngày 24/04/2026) sửa đổi Luật Thuế TNCN 2025 làm cơ sở pháp lý cho Chính phủ điều chỉnh linh động ngưỡng doanh thu.
+- **CẬP NHẬT:** `thue-khoan-guide.md` và `freelancer-guide.md` - bổ sung quy định HĐĐT bắt buộc khi doanh thu vượt 1 tỷ đồng và hạn đăng ký trong vòng 30 ngày (NĐ 68/2026 & NĐ 141/2026).
+- **CẬP NHẬT:** `thue-khoan-guide.md` - bổ sung điều kiện chi phí hợp lý được trừ phải thanh toán không dùng tiền mặt đối với các khoản chi từ 5 triệu đồng trở lên (NĐ 68/2026).
+- **CẬP NHẬT:** `thue-khoan-guide.md` - bổ sung các mẫu biểu mới theo TT 18/2026/TT-BTC bao gồm Mẫu 01/BK-STK (thông báo tài khoản ngân hàng/ví điện tử) và Mẫu 01/TB-ĐĐKD (HKD nhiều địa điểm kinh doanh).
+- **CẬP NHẬT:** `sources.md` - thêm Luật số 09/2026/QH16 vào danh mục.
+- **DUYỆT HỘP THƯ DUYỆT:** Chuyển trạng thái 5 văn bản trong `pending-review/` sang `APPROVED` sau khi tích hợp toàn bộ quy định chi tiết kỹ thuật.
+
 ### 05/05/2026 - SKILL UPDATE - v1.9.0 (BHXH Rút 1 Lần + Trợ Cấp Thất Nghiệp)
 - **THÊM:** `bhxh-rut-mot-lan-guide.md` - BHXH rút 1 lần theo Luật BHXH 2024
   - Điều kiện 2 nhóm (trước/sau 01/07/2025)
@@ -115,7 +123,7 @@
 | Ngày hiệu lực | Văn bản | Nội dung |
 |---------------|---------|---------|
 | 01/01/2026 | NQ 198/2025/QH15 | **Bãi bỏ thuế khoán**, HKD chuyển kê khai tự nộp |
-| 01/01/2026 | NQ 198/2025/QH15 | Ngưỡng miễn thuế HKD nâng lên **500 tr/năm** |
+| 01/01/2026 | NQ 198/2025/QH15 | Ngưỡng miễn thuế HKD nâng lên **500 tr/năm** (NĐ 141 sau đó nâng lên 1 tỷ) |
 | 01/01/2026 | NQ 110/2025/UBTVQH15 | Giảm trừ gia cảnh tăng 40% (15,5tr + 6,2tr) |
 | 01/01/2026 | Luật 109/2025/QH15 (áp dụng sớm) | Biểu thuế 5 bậc cho thu nhập lương |
 | 01/01/2026 | Luật 109/2025/QH15, Đ.35 | Bãi bỏ lệ phí môn bài |
@@ -123,6 +131,10 @@
 | 01/07/2025 | NĐ hướng dẫn | Ngưỡng GTGT nâng từ 100tr lên 200tr |
 | 01/01/2026 | NĐ 293/2025/NĐ-CP | Lương tối thiểu vùng mới (I: 5,31tr, II: 4,73tr, III: 4,14tr, IV: 3,7tr) |
 | 01/01/2026 | NĐ 293/2025 + Luật Việc làm 2025 | Trần BHTN = 20 x lương tối thiểu vùng (khác trần BHXH) |
+| 24/04/2026 | Luật 09/2026/QH16 | Sửa đổi Luật Thuế TNCN 2025, cho phép CP linh hoạt điều chỉnh ngưỡng DT |
+| 29/04/2026 | NĐ 141/2026/NĐ-CP | Nâng ngưỡng miễn thuế HKD/CNKD lên trên **1 tỷ/năm** (hồi tố 01/01/2026, sửa NĐ 68) |
+| 05/03/2026 | NĐ 68/2026/NĐ-CP | Cơ chế thuế HKD mới (thay thế khoán bằng kê khai, bắt buộc HĐĐT khi DT > 1 tỷ) |
+| 05/03/2026 | TT 18/2026/TT-BTC | Hướng dẫn thủ tục thuế HKD, bãi bỏ TT 40/2021 và TT 100/2021 |
 | 01/07/2026 | Luật 109/2025/QH15 | Hiệu lực chính thức toàn bộ luật |
 
 ### Theo dõi tiếp (chưa có hiệu lực)

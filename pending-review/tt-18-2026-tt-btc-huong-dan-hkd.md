@@ -6,7 +6,7 @@
 **Loại:** Thông tư (hướng dẫn NĐ 68/2026/NĐ-CP)
 **Thay thế:** TT 40/2021/TT-BTC và TT 100/2021/TT-BTC
 **Nguồn:** chinhphu.vn, ketoanthienung.net, meinvoice.vn, einvoice.vn
-**Status:** 🟡 PENDING REVIEW
+**Status:** 🟢 APPROVED
 **Extract Quality:** 🟢 85% (source:90 | metadata:100 | content:70 | relevance:80)
 **Crawled:** 05/05/2026
 

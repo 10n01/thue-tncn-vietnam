@@ -1,7 +1,7 @@
 # Tổng Quan Thuế Thu Nhập Cá Nhân (TNCN) Việt Nam
 
-> **Áp dụng:** Kỳ tính thuế 2026 | **Căn cứ:** Luật 109/2025/QH15, NQ 198/2025/QH15, NĐ 141/2026/NĐ-CP
-> **Cập nhật lần cuối:** 05/05/2026 | **Confidence:** HIGH (nguồn chính thống)
+> **Áp dụng:** Kỳ tính thuế 2026 | **Căn cứ:** Luật 109/2025/QH15, Luật 09/2026/QH16, NQ 198/2025/QH15, NĐ 141/2026/NĐ-CP
+> **Cập nhật lần cuối:** 01/07/2026 | **Confidence:** HIGH (nguồn chính thống)
 
 > [!WARNING]
 > Tài liệu chỉ mang tính tham khảo, KHÔNG thay thế tư vấn thuế chuyên nghiệp.
@@ -123,6 +123,12 @@
 
 - **Bãi bỏ thuế khoán** từ 01/01/2026 - mọi HKD/CNKD chuyển sang kê khai tự nộp (NQ 198/2025/QH15)
 - **Bãi bỏ lệ phí môn bài** từ 01/01/2026 - áp dụng cho hộ KD, cá nhân KD và doanh nghiệp (Luật 109/2025/QH15, Điều 35)
+- **Hóa đơn điện tỮd (HĐĐT) bắt buộc** (NĐ 68/2026/NĐ-CP, NĐ 141/2026/NĐ-CP):
+  - HKD/CNKD có doanh thu trên **1 tỷ đồng/năm**: bắt buộc sử dụng HĐĐT có mã CQT hoặc HĐĐT máy tính tiền
+  - Khi doanh thu lũy kế **vượt 1 tỷ** trong năm: phải đăng ký HĐĐT trong vòng **30 ngày**
+  - HKD có nhiều địa điểm kinh doanh: sử dụng chung 1 MST, nộp Mẫu 01/TB-ĐĐKĐ, ghi mã địa điểm trên hóa đơn (TT 18/2026/TT-BTC)
+- **Thanh toán không dùng tiền mặt:** các khoản chi mua hàng hóa/dịch vụ từ **5 triệu trở lên** phải có chứng từ thanh toán không dùng tiền mặt mới được tính vào chi phí hợp lý (NĐ 68/2026/NĐ-CP)
+- **Luật 09/2026/QH16** (24/04/2026): sửa đổi khoản 1 Điều 7 Luật Thuế TNCN 2025, trao quyền cho Chính phủ quyịnh linh hoạt ngưỡng doanh thu miễn thuế theo từng thời kỳ
 - **Hoàn thuế:**
   - Hoàn thuế tự động (hồ sơ đơn giản, đủ ĐK): **khoảng 3-6 ngày làm việc**
   - Hoàn thuế có kiểm tra (hồ sơ phức tạp): **tối đa 45 ngày** kể từ ngày nhận đủ hồ sơ

@@ -4,7 +4,7 @@
 **Cơ quan:** Cục Thuế
 **Loại:** Công văn hướng dẫn
 **Nguồn:** luatvietnam.vn, chinhphu.vn, hcm.edu.vn, ketoanthienung.net
-**Status:** 🟡 PENDING REVIEW
+**Status:** 🟢 APPROVED
 **Extract Quality:** 🟢 88% (source:90 | metadata:90 | content:80 | relevance:90)
 **Crawled:** 05/05/2026
 

@@ -1,7 +1,7 @@
 # Hướng Dẫn Thuế TNCN Cho Freelancer, KOL & Người Bán Hàng Online
 
-> **Áp dụng từ:** Kỳ tính thuế 2026 | **Căn cứ:** Luật 109/2025/QH15, NQ 198/2025/QH15, NĐ 141/2026/NĐ-CP
-> **Confidence:** HIGH (nguồn chính thống) | Thuế khoán bãi bỏ từ 01/01/2026 | Ngưỡng miễn thuế: 1 tỷ/năm
+> **Áp dụng từ:** Kỳ tính thuế 2026 | **Căn cứ:** Luật 109/2025/QH15, Luật 09/2026/QH16, NQ 198/2025/QH15, NĐ 141/2026/NĐ-CP
+> **Confidence:** HIGH (nguồn chính thống) | Thuế khoán bãi bỏ từ 01/01/2026 | Ngưỡng miễn thuế: 1 tỷ/năm | Data cập nhật: 01/07/2026
 
 ## Bạn Thuộc Nhóm Nào?
 
@@ -66,7 +66,9 @@ Từ 01/07/2025:
 - **Sàn có thanh toán tích hợp** (Shopee, TikTok Shop): Sàn khấu trừ + nộp thuế thay
 - **Kênh không tích hợp** (Facebook, Zalo, livestream): Tự đăng ký MST, tự kê khai
 
-**Lưu ý:** Người bán có DT > 3 tỷ/năm vẫn phải tự quyết toán cuối năm.
+**Lưu ý:** 
+- Người bán có DT > 3 tỷ/năm vẫn phải tự quyết toán cuối năm.
+- **Hóa đơn điện tử (HĐĐT):** Nếu tổng doanh thu của seller/freelancer **vượt 1 tỷ đồng/năm**, bắt buộc phải sử dụng HĐĐT có mã CQT và phải thực hiện đăng ký HĐĐT trong vòng **30 ngày** kể từ ngày vượt ngưỡng (NĐ 68/2026/NĐ-CP + NĐ 141/2026/NĐ-CP). Nếu dưới 1 tỷ thì được miễn đăng ký HĐĐT.
 
 ## Thu Nhập Từ Nước Ngoài
 

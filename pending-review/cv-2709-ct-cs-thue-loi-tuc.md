@@ -4,7 +4,7 @@
 **Cơ quan:** Cục Thuế (TP.HCM)
 **Loại:** Công văn hướng dẫn
 **Nguồn:** luatvietnam.vn, ketoanducminh.edu.vn
-**Status:** 🟡 PENDING REVIEW
+**Status:** 🟢 APPROVED
 **Extract Quality:** 🟡 75% (source:90 | metadata:80 | content:60 | relevance:70)
 **Crawled:** 05/05/2026
 

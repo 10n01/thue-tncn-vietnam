@@ -6,7 +6,7 @@
 **Loại:** Nghị định (quy định mới)
 **Kết cấu:** 5 chương, 19 điều
 **Nguồn:** chinhphu.vn, smartvas.vn, luatvietnam.vn, cafef.vn
-**Status:** 🟡 PENDING REVIEW
+**Status:** 🟢 APPROVED
 **Extract Quality:** 🟢 90% (source:100 | metadata:100 | content:80 | relevance:80)
 **Crawled:** 05/05/2026
 

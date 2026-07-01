@@ -208,6 +208,35 @@ Tiết kiệm so với flat 20%: 7.629.200/tháng (~91,5 tr/năm)
 
 ---
 
+## Case 8: Nhân viên tăng ca, làm thêm giờ (từ 01/07/2026)
+
+**Thông tin:**
+- Lương gross cơ bản: 20 triệu/tháng (Vùng I)
+- Trong tháng, làm thêm giờ ban đêm và ngày nghỉ được nhận thêm: 5 triệu đồng (gồm 3 triệu tiền lương tính theo đơn giá giờ làm việc bình thường và 2 triệu tiền lương chênh lệch trả thêm do làm thêm giờ ban đêm/ngày nghỉ).
+- Không người phụ thuộc.
+
+**Tính BHBB (chỉ tính trên lương cơ bản trong hợp đồng):**
+- BHXH (8%): 20tr x 8% = 1.600.000đ
+- BHYT (1,5%): 20tr x 1,5% = 300.000đ
+- BHTN (1%): 20tr x 1% = 200.000đ
+- Tổng BHBB = **2.100.000đ**
+
+**So sánh cách tính thuế TNCN cũ vs mới (áp dụng từ 01/07/2026):**
+
+| Chỉ tiêu | Cách tính cũ (Trước 01/07/2026) | Cách tính mới (Từ 01/07/2026 - Luật 109/2025/QH15) |
+|---|---|---|
+| **Thu nhập thực nhận** | 25.000.000đ | 25.000.000đ |
+| **Phần được miễn thuế** | Chỉ miễn phần chênh lệch trả thêm:<br>**2.000.000đ** | Miễn toàn bộ 100% tiền lương làm thêm giờ:<br>**5.000.000đ** (Khoản 8 Điều 4) |
+| **Thu nhập chịu thuế** | 20tr (lương cơ bản) + 3tr = **23.000.000đ** | Chỉ tính trên lương cơ bản = **20.000.000đ** |
+| **Trừ BHBB** | -2.100.000đ | -2.100.000đ |
+| **Trừ gia cảnh bản thân** | -15.500.000đ | -15.500.000đ |
+| **Thu nhập tính thuế (TNTT)** | **5.400.000đ** | **2.400.000đ** |
+| **Thuế TNCN phải nộp** | Bậc 1 (5%): 5,4tr x 5% = **270.000đ** | Bậc 1 (5%): 2,4tr x 5% = **120.000đ** |
+
+**Kết luận:** Nhờ quy định mới của Luật 109/2025/QH15, người lao động được miễn thuế toàn bộ 100% phần lương ngoài giờ (không phân biệt phần gốc hay phần chênh lệch), giúp tiết kiệm thêm **150.000đ/tháng** tiền thuế TNCN thực nộp.
+
+---
+
 > [!WARNING]
 > Các ví dụ trên chỉ minh họa cách tính. Thực tế có thể phức tạp hơn do:
 > - Có nhiều nguồn thu nhập khác nhau

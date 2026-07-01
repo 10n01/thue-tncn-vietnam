@@ -50,10 +50,12 @@
 | **Luật 09/2026/QH16** | **Luật sửa đổi các luật thuế** (cho phép CP linh hoạt điều chỉnh ngưỡng DT) | 24/04/2026 | thuvienphapluat.vn |
 | NQ 110/2025/UBTVQH15 | Mức giảm trừ gia cảnh mới | 01/01/2026 | chinhphu.vn |
 | NQ 198/2025/QH15 | Bãi bỏ thuế khoán, ngưỡng 500tr (ban đầu) | 01/01/2026 | chinhphu.vn |
+| **NĐ 161/2026/NĐ-CP** | **Mức lương cơ sở mới 2.530.000đ** (ảnh hưởng trần đóng bảo hiểm) | 01/07/2026 | chinhphu.vn |
 | NĐ 293/2025/NĐ-CP | Lương tối thiểu vùng mới (trần BHTN) | 01/01/2026 | thuvienphapluat.vn |
 | **NĐ 68/2026/NĐ-CP** | **Chính sách thuế HKD/CNKD mới** (5 chương, 19 điều) | 05/03/2026 | chinhphu.vn |
 | **NĐ 141/2026/NĐ-CP** | **Nâng ngưỡng miễn thuế HKD lên 1 tỷ/năm** (sửa NĐ 68) | 29/04/2026 (hồi tố 01/01/2026) | chinhphu.vn, laodong.vn |
 | **TT 18/2026/TT-BTC** | **Hướng dẫn thủ tục thuế HKD** (thay TT 40/2021 + TT 100/2021) | 05/03/2026 | chinhphu.vn |
+| **NĐ 137/2026/NĐ-CP** | **Quản lý hoạt động kinh doanh đa cấp** (cấm công chức tham gia) | 01/07/2026 | chinhphu.vn |
 | NĐ hướng dẫn Luật 109/2025 | Hướng dẫn thuế TNCN tiền lương, tiền công | ⚠️ **Vẫn đang dự thảo** (tính đến 05/05/2026) | mof.gov.vn |
 | TT 80/2021/TT-BTC | Mẫu tờ khai thuế (QT cá nhân) | Đang áp dụng | thuvienphapluat.vn |
 | NQ 954/2020/UBTVQH14 | Giảm trừ gia cảnh cũ | Hết hiệu lực 31/12/2025 | - |

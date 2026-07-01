@@ -1,6 +1,6 @@
 # Thuế TNCN cho Người Nước Ngoài tại Việt Nam
 
-> Cập nhật: 25/03/2026 | Căn cứ: Luật 109/2025/QH15, TT 111/2013/TT-BTC, TT 80/2021/TT-BTC
+> Cập nhật: 01/07/2026 | Căn cứ: Luật 109/2025/QH15, Luật 09/2026/QH16, NĐ 161/2026/NĐ-CP, TT 111/2013/TT-BTC, TT 80/2021/TT-BTC
 
 ## 1. Xác Định Tình Trạng Cư Trú
 
@@ -165,25 +165,25 @@ Người nước ngoài **kết thúc hợp đồng và rời VN** phải:
 
 | Loại | Tỷ lệ | Mức lương tính đóng | Số tiền |
 |------|--------|-------------------|---------|
-| BHXH | 8% | Trần 46.800.000 | 3.744.000 |
-| BHYT | 1,5% | Trần 46.800.000 | 702.000 |
+| BHXH | 8% | Trần 50.600.000 | 4.048.000 |
+| BHYT | 1,5% | Trần 50.600.000 | 759.000 |
 | BHTN | 1% | 80.000.000 (chưa vượt trần Vùng I: 106.200.000) | 800.000 |
-| **Tổng BHBB** | | | **5.246.000** |
+| **Tổng BHBB** | | | **5.607.000** |
 
 **Tính thuế TNCN (biểu 5 bậc 2026):**
 
 ```
 Thu nhập: 80.000.000
-Trừ BHBB: -5.246.000
+Trừ BHBB: -5.607.000
 Trừ bản thân: -15.500.000
 Trừ 1 NPT: -6.200.000
-Thu nhập tính thuế: 53.054.000
+Thu nhập tính thuế: 52.693.000
 
 Bậc 1: 10 tr x 5% = 500.000
 Bậc 2: 20 tr x 10% = 2.000.000
-Bậc 3: 23.054.000 x 20% = 4.610.800
-Tổng thuế: 7.110.800 VNĐ/tháng
-Thuế suất thực tế: ~8,9%
+Bậc 3: 22.693.000 x 20% = 4.538.600
+Tổng thuế: 7.038.600 VNĐ/tháng
+Thuế suất thực tế: ~8,8%
 ```
 
 ### Case 2: Expat không cư trú - Lương 80 triệu/tháng
@@ -194,9 +194,9 @@ Thuế: 80 tr x 20% = 16.000.000 VNĐ/tháng
 Thuế suất thực tế: 20% (flat)
 ```
 
-> **So sánh:** Cùng lương 80 triệu, cư trú đóng ~7,1 tr, không cư trú đóng 16 tr. Chênh lệch ~8,9 tr/tháng (~107 tr/năm).
+> **So sánh:** Cùng lương 80 triệu, cư trú đóng ~7,0 tr, không cư trú đóng 16 tr. Chênh lệch ~9,0 tr/tháng (~108 tr/năm).
 
 ---
 
-*Căn cứ pháp lý: Luật 109/2025/QH15, TT 111/2013/TT-BTC (sửa đổi bởi TT 92/2015), TT 80/2021/TT-BTC, NQ 110/2025/UBTVQH15*
+*Căn cứ pháp lý: Luật 109/2025/QH15, Luật 09/2026/QH16, NĐ 161/2026/NĐ-CP, TT 111/2013/TT-BTC (sửa đổi bởi TT 92/2015), TT 80/2021/TT-BTC, NQ 110/2025/UBTVQH15*
 *Kiểm tra tại: https://gdt.gov.vn*

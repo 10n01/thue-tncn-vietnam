@@ -49,8 +49,8 @@
 
 | Loại | Tỷ lệ NLĐ | Trần tính đóng | Căn cứ trần |
 |------|-----------|---------------|-------------|
-| **BHXH** | 8% | 20 x lương cơ sở = **46.800.000** | NĐ 73/2024/NĐ-CP (lương cơ sở 2.340.000) |
-| **BHYT** | 1,5% | 20 x lương cơ sở = **46.800.000** | NĐ 73/2024/NĐ-CP |
+| **BHXH** | 8% | 20 x lương cơ sở = **50.600.000** | NĐ 161/2026/NĐ-CP (lương cơ sở 2.530.000 từ 01/07/2026) |
+| **BHYT** | 1,5% | 20 x lương cơ sở = **50.600.000** | NĐ 161/2026/NĐ-CP |
 | **BHTN** | 1% | 20 x lương tối thiểu vùng | NĐ 293/2025/NĐ-CP + Luật Việc làm 2025 |
 
 ### Trần BHTN theo vùng (từ 01/01/2026, NĐ 293/2025/NĐ-CP)
@@ -66,15 +66,15 @@
 
 | Loại | Tỷ lệ NSDLĐ | Trần tính đóng |
 |------|-------------|---------------|
-| **BHXH** | 17,5% | 46.800.000 (20 x lương cơ sở) |
-| **BHYT** | 3% | 46.800.000 |
+| **BHXH** | 17,5% | 50.600.000 (20 x lương cơ sở) |
+| **BHYT** | 3% | 50.600.000 |
 | **BHTN** | 1% | 20 x lương tối thiểu vùng (theo bảng trên) |
 
 **Lưu ý:**
-- Trần BHXH/BHYT = 20 x lương cơ sở (2.340.000) = **46.800.000 VNĐ**
+- Trần BHXH/BHYT = 20 x lương cơ sở (2.530.000) = **50.600.000 VNĐ**
 - Trần BHTN = 20 x lương tối thiểu vùng (khác nhau theo vùng)
-- Với lương ≤ 46,8 triệu: BHBB tính trên lương thực tế, tổng NLĐ đóng = 10,5%
-- Với lương > 46,8 triệu: BHXH/BHYT tính trên trần 46,8tr, BHTN tính trên lương thực tế (nếu chưa vượt trần vùng)
+- Với lương ≤ 50,6 triệu: BHBB tính trên lương thực tế, tổng NLĐ đóng = 10,5%
+- Với lương > 50,6 triệu: BHXH/BHYT tính trên trần 50,6tr, BHTN tính trên lương thực tế (nếu chưa vượt trần vùng)
 
 ## 5. Ngưỡng Doanh Thu HKD/CNKD (Cập nhật 2026)
 
@@ -129,6 +129,7 @@
   - HKD có nhiều địa điểm kinh doanh: sử dụng chung 1 MST, nộp Mẫu 01/TB-ĐĐKĐ, ghi mã địa điểm trên hóa đơn (TT 18/2026/TT-BTC)
 - **Thanh toán không dùng tiền mặt:** các khoản chi mua hàng hóa/dịch vụ từ **5 triệu trở lên** phải có chứng từ thanh toán không dùng tiền mặt mới được tính vào chi phí hợp lý (NĐ 68/2026/NĐ-CP)
 - **Luật 09/2026/QH16** (24/04/2026): sửa đổi khoản 1 Điều 7 Luật Thuế TNCN 2025, trao quyền cho Chính phủ quyịnh linh hoạt ngưỡng doanh thu miễn thuế theo từng thời kỳ
+- **Miễn thuế TNCN 100% làm thêm giờ, làm đêm:** Theo Khoản 8 Điều 4 Luật Thuế TNCN 2025 (Luật 109/2025/QH15), từ 01/07/2026, toàn bộ tiền lương trả cho thời gian làm thêm giờ, làm việc ban đêm, làm việc vào ngày nghỉ/ngày lễ được miễn thuế TNCN 100% (không còn giới hạn chỉ miễn phần chênh lệch như trước đây).
 - **Hoàn thuế:**
   - Hoàn thuế tự động (hồ sơ đơn giản, đủ ĐK): **khoảng 3-6 ngày làm việc**
   - Hoàn thuế có kiểm tra (hồ sơ phức tạp): **tối đa 45 ngày** kể từ ngày nhận đủ hồ sơ

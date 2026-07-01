@@ -39,23 +39,23 @@
 
 | Loại | Tỷ lệ | Mức lương tính đóng | Số tiền |
 |------|--------|-------------------|---------|
-| BHXH | 8% | Trần 46.800.000 (20 x lương cơ sở) | 3.744.000 |
-| BHYT | 1,5% | Trần 46.800.000 | 702.000 |
+| BHXH | 8% | **50.000.000** (lương thực tế < trần mới: 50.600.000) | **4.000.000** |
+| BHYT | 1,5% | **50.000.000** (lương thực tế < trần mới: 50.600.000) | **750.000** |
 | BHTN | 1% | **50.000.000** (lương thực tế, chưa vượt trần Vùng I: 106.200.000) | **500.000** |
-| **Tổng BHBB** | | | **4.946.000** |
+| **Tổng BHBB** | | | **5.250.000** |
 
 **Tính thuế TNCN:**
 | Bước | Công thức | Kết quả |
 |------|----------|---------|
 | Thu nhập chịu thuế | 50 tr | 50.000.000 |
-| Trừ BHBB | (xem bảng trên) | -4.946.000 |
+| Trừ BHBB | (xem bảng trên) | -5.250.000 |
 | Trừ giảm trừ bản thân | 15,5 tr/tháng | -15.500.000 |
-| **Thu nhập tính thuế** | | **29.554.000** |
+| **Thu nhập tính thuế** | | **29.250.000** |
 | Bậc 1: 10tr x 5% | | 500.000 |
-| Bậc 2: 19.554.000 x 10% | | 1.955.400 |
-| **Tổng thuế TNCN** | | **2.455.400 VNĐ/tháng** |
+| Bậc 2: 19.250.000 x 10% | | 1.925.000 |
+| **Tổng thuế TNCN** | | **2.425.000 VNĐ/tháng** |
 
-**Kết luận:** Lương 50tr (Vùng I), không NPT -> thuế ~2,46tr/tháng (~29,5tr/năm).
+**Kết luận:** Lương 50tr (Vùng I), không NPT -> thuế ~2,43tr/tháng (~29,1tr/năm).
 
 > **Lưu ý:** Nếu NLĐ làm việc tại Vùng IV (lương tối thiểu 3.700.000), trần BHTN = 74.000.000, BHTN vẫn tính trên lương 50tr (chưa vượt trần). Kết quả tương tự.
 
@@ -128,22 +128,22 @@
 
 | Loại | Tỷ lệ | Mức tính đóng | Số tiền |
 |------|--------|--------------|---------|
-| BHXH | 8% | Trần 46.800.000 | 3.744.000 |
-| BHYT | 1,5% | Trần 46.800.000 | 702.000 |
+| BHXH | 8% | Trần 50.600.000 | 4.048.000 |
+| BHYT | 1,5% | Trần 50.600.000 | 759.000 |
 | BHTN | 1% | 60.000.000 (< trần Vùng I: 106,2tr) | 600.000 |
-| **Tổng BHBB** | | | **5.046.000** |
+| **Tổng BHBB** | | | **5.407.000** |
 
 ```
 Thu nhập: 60.000.000
-Trừ BHBB: -5.046.000
+Trừ BHBB: -5.407.000
 Trừ bản thân: -15.500.000
 Trừ 1 NPT: -6.200.000
-Thu nhập tính thuế: 33.254.000
+Thu nhập tính thuế: 32.893.000
 
 Bậc 1: 10 tr x 5% = 500.000
 Bậc 2: 20 tr x 10% = 2.000.000
-Bậc 3: 3.254.000 x 20% = 650.800
-Thuế lương: 3.150.800 VNĐ/tháng
+Bậc 3: 2.893.000 x 20% = 578.600
+Thuế lương: 3.078.600 VNĐ/tháng
 ```
 
 **Phần 2: Thuế freelance**
@@ -155,10 +155,10 @@ Thuế lương: 3.150.800 VNĐ/tháng
 **Tổng hợp:**
 | Mục | Số tiền/tháng | Số tiền/năm |
 |-----|-------------|-------------|
-| Thuế lương | 3.150.800 | 37.809.600 |
+| Thuế lương | 3.078.600 | 36.943.200 |
 | Thuế freelance | 0 (miễn) | 0 |
 | DN đã KT 10% freelance | | -20.000.000 (hoàn lại) |
-| **Thuế thực nộp** | | **17.809.600/năm** |
+| **Thuế thực nộp** | | **16.943.200/năm** |
 
 ---
 

@@ -54,3 +54,6 @@ CÓ, từ 2026 hộ/cá nhân KD có DT > 3 tỷ/năm được tính thuế theo
 
 ### Q13: Lợi tức từ công ty TNHH 1TV do cá nhân làm chủ có phải nộp thuế TNCN không?
 **KHÔNG.** Khoản lợi tức cá nhân nhận được từ công ty TNHH 1TV do cá nhân làm chủ không tính vào thu nhập chịu thuế từ đầu tư vốn, với điều kiện DN đã nộp thuế TNDN tại VN *(CV 2709/CT-CS ngày 28/04/2026)*.
+
+### Q14: Tiền lương làm thêm giờ, làm việc ban đêm có được miễn thuế TNCN không?
+**CÓ.** Từ ngày 01/07/2026, theo Khoản 8 Điều 4 Luật Thuế TNCN 2025 (Luật 109/2025/QH15), toàn bộ tiền lương trả cho thời gian làm thêm giờ, làm việc ban đêm, làm việc vào ngày nghỉ/ngày lễ được **miễn thuế TNCN 100%** (không còn giới hạn chỉ miễn phần chênh lệch như trước đây). Hộ kinh doanh hoặc kế toán doanh nghiệp khi quyết toán thuế cần lưu ý khai tách phần thu nhập này để được khấu trừ chính xác.

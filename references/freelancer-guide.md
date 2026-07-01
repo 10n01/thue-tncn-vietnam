@@ -48,6 +48,9 @@ Doanh thu/năm bao nhiêu?
 | Nội dung số | 5% | 5% | YouTube, TikTok, quảng cáo số |
 | Cho thuê tài sản | 5% | 5% | Cho thuê phòng, thiết bị |
 
+> [!IMPORTANT]
+> **Lưu ý pháp lý từ 01/07/2026 (NĐ 137/2026/NĐ-CP):** Cán bộ, công chức, viên chức và lực lượng vũ trang (sĩ quan Công an, Quân đội) **bị cấm hoàn toàn** ký hợp đồng tham gia hoạt động bán hàng đa cấp. Doanh nghiệp đa cấp không được ký hợp đồng đại lý đa cấp với các đối tượng này.
+
 ## Khấu Trừ Tại Nguồn (10%)
 
 Khi freelancer/KOL nhận thu nhập từ doanh nghiệp:

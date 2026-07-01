@@ -6,6 +6,14 @@
 
 ---
 
+### 01/07/2026 - SKILL UPDATE - v1.10.0 (Lương cơ sở mới + Miễn thuế OT 100% + Cấm đa cấp công chức)
+- **CẬP NHẬT:** `tong-quan-thue.md`, `SKILL.md` và các case study tại `vi-du-tinh-thue.md` - thay đổi mức lương cơ sở mới lên **2.530.000đ/tháng** theo Nghị định 161/2026/NĐ-CP.
+  - Trần đóng BHXH/BHYT mới là **50.600.000đ/tháng** (NLĐ đóng tối đa BHXH: 4.048.000đ, BHYT: 759.000đ).
+  - Tính toán lại chi tiết BHBB và thuế TNCN của **Case 2** (lương 50tr) và **Case 6** (expat lương 60tr) khớp 100% với trần đóng mới.
+- **CẬP NHẬT:** `tong-quan-thue.md` và `faq.md` - bổ sung chính sách **miễn thuế TNCN 100%** đối với toàn bộ tiền lương làm thêm giờ, làm việc vào ban đêm theo Luật 109/2025/QH15 (không còn giới hạn chỉ miễn phần chênh lệch).
+- **CẬP NHẬT:** `freelancer-guide.md` - bổ sung lưu ý cấm công chức, viên chức, lực lượng vũ trang tham gia mạng lưới bán hàng đa cấp theo Nghị định 137/2026/NĐ-CP.
+- **CẬP NHẬT:** `sources.md` - thêm các Nghị định 161/2026/NĐ-CP và 137/2026/NĐ-CP.
+
 ### 01/07/2026 - SKILL UPDATE - v1.9.1 (Quy định chi tiết HKD + Luật 09/2026/QH16)
 - **THÊM CĂN CỨ:** Luật số 09/2026/QH16 (ban hành ngày 24/04/2026) sửa đổi Luật Thuế TNCN 2025 làm cơ sở pháp lý cho Chính phủ điều chỉnh linh động ngưỡng doanh thu.
 - **CẬP NHẬT:** `thue-khoan-guide.md` và `freelancer-guide.md` - bổ sung quy định HĐĐT bắt buộc khi doanh thu vượt 1 tỷ đồng và hạn đăng ký trong vòng 30 ngày (NĐ 68/2026 & NĐ 141/2026).
@@ -136,6 +144,8 @@
 | 05/03/2026 | NĐ 68/2026/NĐ-CP | Cơ chế thuế HKD mới (thay thế khoán bằng kê khai, bắt buộc HĐĐT khi DT > 1 tỷ) |
 | 05/03/2026 | TT 18/2026/TT-BTC | Hướng dẫn thủ tục thuế HKD, bãi bỏ TT 40/2021 và TT 100/2021 |
 | 01/07/2026 | Luật 109/2025/QH15 | Hiệu lực chính thức toàn bộ luật |
+| 01/07/2026 | NĐ 161/2026/NĐ-CP | Tăng lương cơ sở lên **2.530.000 đồng/tháng** (trần BHXH/BHYT mới 50,6tr) |
+| 01/07/2026 | NĐ 137/2026/NĐ-CP | Ban hành Quy chế quản lý đa cấp mới (cấm công chức, sĩ quan tham gia) |
 
 ### Theo dõi tiếp (chưa có hiệu lực)
 - NĐ hướng dẫn chi tiết Luật 109/2025 - chờ ban hành

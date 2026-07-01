@@ -2,7 +2,7 @@
 
 > AI Skill tra cứu thuế TNCN, SOP kê khai/quyết toán, hướng dẫn theo nhóm đối tượng.
 
-[![Version](https://img.shields.io/badge/version-1.9.1-blue)]()
+[![Version](https://img.shields.io/badge/version-1.10.0-blue)]()
 [![License](https://img.shields.io/badge/license-MIT-green)]()
 [![Score](https://img.shields.io/badge/audit%20score-9.2%2F10-brightgreen)]()
 [![Updated](https://img.shields.io/badge/updated-01%2F07%2F2026-orange)]()
@@ -55,6 +55,7 @@ Copy nội dung `SKILL.md` vào system prompt, upload folder `references/` vào 
 | Giảm trừ bản thân | 15,5 tr/tháng | NQ 110/2025/UBTVQH15 |
 | Giảm trừ NPT | 6,2 tr/tháng | NQ 110/2025/UBTVQH15 |
 | Ngưỡng miễn thuế HKD | **1 tỷ/năm** (cũ: 500tr) | NĐ 141/2026/NĐ-CP |
+| Trần đóng BHXH/BHYT | **50,6 triệu/tháng** (lương cơ sở 2,53tr từ 01/07/2026) | NĐ 161/2026/NĐ-CP |
 | Biểu thuế lũy tiến | 5 bậc (5% - 35%) | Luật 109/2025/QH15 |
 | Thuế khoán | **Bãi bỏ** từ 01/01/2026 | NQ 198/2025/QH15 |
 
@@ -86,7 +87,7 @@ thue-tncn-vietnam/
 Skill đã qua **4 vòng đánh giá** theo quy trình 6 bước:
 
 ```
-v1.4.0 (7.4) → v1.5.0 (7.9) → v1.6.0 (8.7) → v1.7.0 (9.2) → v1.8.0 → v1.9.0 (+BHXH/BHTN) → v1.9.1 (+Luật 09/2026/QH16 + HDDOT + NQ kỹ thuật)
+v1.4.0 (7.4) → v1.5.0 (7.9) → v1.6.0 (8.7) → v1.7.0 (9.2) → v1.8.0 → v1.9.0 (+BHXH/BHTN) → v1.9.1 (+Luật 09/2026/QH16 + HDDOT + NQ kỹ thuật) → v1.10.0 (Lương cơ sở 2.53tr + Miễn thuế OT 100%)
 ```
 
 ## Lưu Ý Quan Trọng
@@ -103,4 +104,4 @@ Kiểm tra lại tại:
 
 ---
 
-*Cập nhật: 01/07/2026 | Luật 109/2025/QH15 | Luật 09/2026/QH16 | NĐ 141/2026/NĐ-CP | NĐ 68/2026/NĐ-CP*
+*Cập nhật: 01/07/2026 | Lương cơ sở 2,53tr | Luật 109/2025/QH15 | Luật 09/2026/QH16 | NĐ 161/2026/NĐ-CP | NĐ 141/2026/NĐ-CP | NĐ 68/2026/NĐ-CP*
